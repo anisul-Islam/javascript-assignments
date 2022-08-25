@@ -6,3 +6,16 @@ Program 1:
 
 */
 // start here writing the code for program1
+
+// let randomNumber=Math.trunc(Math.random() * 30) + 1;
+// // console.log(randomNumber);
+
+
+// if(randomNumber >= 18 )
+// {
+//   console.log(`Valid Voter because number was ${randomNumber}`);
+  
+// }
+// else{
+//   console.log(`Invalid Voter because number was ${randomNumber}`);
+// }
