@@ -8,3 +8,8 @@ vowel
 
 */
 // start here writing the code for program1
+const Option = "b"
+switch (Option) {
+    case "b":
+        console.log("vowel")
+}
