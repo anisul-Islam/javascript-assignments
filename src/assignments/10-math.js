@@ -12,5 +12,5 @@ age = Number(prompt("enter your age"));
 if (age > 18) {
   console.log("valid voter");
 } else {
-  console.log("Invalid voters");
+  console.log("Invalid voter");
 }
